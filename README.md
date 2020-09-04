@@ -13,8 +13,8 @@
 3. New DB created with below SQL from MySQL workbench
 4. When the project runs JPA creates the table. (Product)
 
-	create database testdb;
-	use testdb;
+		create database testdb;
+		use testdb;
 
 # Swagger
 1. Use this url to see the JSON in postman - http://localhost:5151/v2/api-docs.
